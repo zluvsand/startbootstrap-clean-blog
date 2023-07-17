@@ -1,5 +1,5 @@
 # 🎨 Create your own stunning website in minutes for free
-<a href="https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05">
+<a href="https://medium.com/towards-data-science/create-your-own-stunning-website-in-minutes-for-free-63f0f7c75bf">
     <img src="https://img.shields.io/badge/READ ON MEDIUM-12100E?logo=medium&color=000&logoColor=white" />
 </a>
 
