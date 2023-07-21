@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/READ ON MEDIUM-12100E?logo=medium&color=000&logoColor=white" />
 </a>
 
-We can create beautiful websites in minutes for free by leveraging prebuilt Start Bootstrap themes and hosting it for free with GitHub Pages.
+We can create beautiful websites in minutes by leveraging prebuilt Start Bootstrap themes and hosting it for free with GitHub Pages.
 
 ## 📜 0. Contents
 [1. Example commands](#example-commands)<br>
