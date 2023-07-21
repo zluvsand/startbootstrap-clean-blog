@@ -3,8 +3,7 @@
     <img src="https://img.shields.io/badge/READ ON MEDIUM-12100E?logo=medium&color=000&logoColor=white" />
 </a>
 
-To customise your GitHub Profile, include your favourite code snippets in `README.md` in a public repository named after your GitHub `<username>`. `README.md` must be located at the root directory of the repository. 
-
+We can create beautiful websites in minutes for free by leveraging prebuilt Start Bootstrap themes and hosting it for free with GitHub Pages.
 
 ## 📜 0. Contents
 [1. Example commands](#example-commands)<br>
