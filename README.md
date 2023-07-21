@@ -14,16 +14,17 @@ We can create beautiful websites in minutes by leveraging prebuilt Start Bootstr
 
 ```
 # Clone gh-pages branch
-git clone --branch gh-pages https://github.com/StartBootstrap/startbootstrap-clean-blog.git
+git clone --branch gh-pages https://github.com/StartBootstrap/<startbootstrap-repository>.git
 # Go into the newly cloned directory
-cd startbootstrap-clean-blog
+cd <startbootstrap-repository>
 
 ## ACTION: Make local changes to customise theme
+## ACTION: Create new remote repository named consistently with <startbootstrap-repository>
 
 # Check remote
 git remote -v
 # Change remote
-git remote set-url origin https://github.com/zluvsand/startbootstrap-clean-blog.git
+git remote set-url origin https://github.com/<username>/<startbootstrap-repository>.git
 # Check remote
 git remote -v
 
